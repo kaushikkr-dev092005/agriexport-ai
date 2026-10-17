@@ -1,0 +1,6 @@
+# Starting assumptions; unvalidated. Hard eligibility gates run before this score.
+demand: 0.25
+indian_supply: 0.20
+profit: 0.30
+accessibility: 0.15
+confidence: 0.10

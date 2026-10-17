@@ -1,0 +1,36 @@
+{
+  "name": "agriexport-dashboard",
+  "version": "0.4.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "playwright test",
+    "prebuild": "node scripts/sync-guide-assets.mjs",
+    "predev": "node scripts/sync-guide-assets.mjs",
+    "lint": "eslint components/guide scripts/sync-guide-assets.mjs"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.468.0",
+    "motion": "^14.3.0",
+    "next": "^16.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.7.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^10.12.0",
+    "typescript": "^5.7.0",
+    "typescript-eslint": "^8.71.2"
+  }
+}

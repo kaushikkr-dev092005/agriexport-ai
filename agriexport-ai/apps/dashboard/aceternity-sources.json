@@ -1,0 +1,29 @@
+[
+  {
+    "component": "bento-grid",
+    "url": "https://ui.aceternity.com/registry/bento-grid.json",
+    "sha256": "9d988ea63b4209b65e386aa26dba37005d67667e122184c8905b6d31eda32482",
+    "author": "Manu Arora <hi@manuarora.in>",
+    "dependencies": [
+      "@tabler/icons-react"
+    ]
+  },
+  {
+    "component": "hover-border-gradient",
+    "url": "https://ui.aceternity.com/registry/hover-border-gradient.json",
+    "sha256": "d1adc254f1bb18386598ae6afe930a4a12069e963184159fad4e4b8f797da5bf",
+    "author": "Manu Arora <hi@manuarora.in>",
+    "dependencies": [
+      "motion"
+    ]
+  },
+  {
+    "component": "text-generate-effect",
+    "url": "https://ui.aceternity.com/registry/text-generate-effect.json",
+    "sha256": "31f3b8c41b215c8e91a6068c03e63d18ba1b2f196d055827eec6b6cf593ced1f",
+    "author": "Manu Arora <hi@manuarora.in>",
+    "dependencies": [
+      "motion"
+    ]
+  }
+]

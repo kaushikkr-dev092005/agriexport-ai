@@ -1,0 +1,8 @@
+# Explicit opt-in public jobs. Empty = NOT_CONFIGURED, never a healthy live feed.
+jobs: []
+# Example historical sample (not current market data):
+# - source: commerce
+#   product_id: basmati_rice
+#   hs_code: '10063020'
+#   period: '202501'
+#   partner: '682'

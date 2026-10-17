@@ -1,0 +1,212 @@
+[
+  {
+    "product_id": "rice",
+    "hs_code": "1006",
+    "hs_revision": "HS2022",
+    "name": "Rice",
+    "category": "cereals",
+    "pilot": true,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "onions",
+    "hs_code": "070310",
+    "hs_revision": "HS2022",
+    "name": "Onions and shallots, fresh or chilled",
+    "category": "vegetables",
+    "pilot": true,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "pepper",
+    "hs_code": "0904",
+    "hs_revision": "HS2022",
+    "name": "Pepper and capsicum/pimenta fruit",
+    "category": "spices",
+    "pilot": true,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "other_spices",
+    "hs_code": "0910",
+    "hs_revision": "HS2022",
+    "name": "Ginger, saffron, turmeric, thyme, bay leaves, curry and other spices",
+    "category": "spices",
+    "pilot": true,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "fresh_grapes",
+    "hs_code": "080610",
+    "hs_revision": "HS2022",
+    "name": "Fresh grapes",
+    "category": "fruit",
+    "pilot": true,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "tea",
+    "hs_code": "0902",
+    "hs_revision": "HS2022",
+    "name": "Tea",
+    "category": "tea",
+    "pilot": true,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "coffee",
+    "hs_code": "0901",
+    "hs_revision": "HS2022",
+    "name": "Coffee and coffee substitutes containing coffee",
+    "category": "coffee",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "wheat",
+    "hs_code": "1001",
+    "hs_revision": "HS2022",
+    "name": "Wheat and meslin",
+    "category": "cereals",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "pulses",
+    "hs_code": "0713",
+    "hs_revision": "HS2022",
+    "name": "Dried leguminous vegetables",
+    "category": "pulses",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "soybeans",
+    "hs_code": "1201",
+    "hs_revision": "HS2022",
+    "name": "Soya beans",
+    "category": "oilseeds",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "groundnuts",
+    "hs_code": "1202",
+    "hs_revision": "HS2022",
+    "name": "Groundnuts, not roasted or cooked",
+    "category": "oilseeds",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "soy_oil",
+    "hs_code": "1507",
+    "hs_revision": "HS2022",
+    "name": "Soya-bean oil and fractions",
+    "category": "oils",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "sugar",
+    "hs_code": "1701",
+    "hs_revision": "HS2022",
+    "name": "Cane or beet sugar and chemically pure sucrose",
+    "category": "sugar",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "milk",
+    "hs_code": "0401",
+    "hs_revision": "HS2022",
+    "name": "Milk and cream, not concentrated or sweetened",
+    "category": "dairy",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "bovine_meat",
+    "hs_code": "0202",
+    "hs_revision": "HS2022",
+    "name": "Frozen bovine meat",
+    "category": "meat",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "frozen_fish",
+    "hs_code": "0303",
+    "hs_revision": "HS2022",
+    "name": "Frozen fish excluding fillets",
+    "category": "seafood",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "crustaceans",
+    "hs_code": "0306",
+    "hs_revision": "HS2022",
+    "name": "Crustaceans",
+    "category": "seafood",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "fruit_preparations",
+    "hs_code": "2008",
+    "hs_revision": "HS2022",
+    "name": "Fruit, nuts and other edible plant parts, prepared or preserved",
+    "category": "processed_food",
+    "pilot": false,
+    "itc_hs_status": "unverified",
+    "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+    "hs_code_status": "verified_code_exists_HS2022"
+  },
+  {
+    "product_id": "basmati_rice",
+    "hs_code": "10063020",
+    "hs_revision": "ITC-source",
+    "name": "Basmati rice (source-reported ITC code)",
+    "category": "cereals",
+    "pilot": true,
+    "itc_hs_status": "unverified",
+    "hs_code_status": "code_and_KGS_unit_observed_in_official_report",
+    "source_hs_edition": "unverified",
+    "source_url": "https://tradestat.commerce.gov.in/meidb/commodity_wise_all_countries_export"
+  }
+]

@@ -1,0 +1,8 @@
+# Baselines are unvalidated. Monthly context cannot be divided into weekly targets.
+horizons_days: [7, 14, 28]
+daily_min_history_observations: 28
+max_daily_data_age_days: 3
+max_monthly_context_age_days: 90
+methods: [last_value, seasonal_naive, seasonal_mean]
+calibration_min_samples: 20
+nominal_interval_coverage: 0.90
